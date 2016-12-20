@@ -1,0 +1,3 @@
+rootProject.name = 'ExNavRedux'
+
+include ':app'
